@@ -1,7 +1,2 @@
-streamlit
-pandas
-ast
-numpy
 google-generativeai
 google-cloud-storage
-json
